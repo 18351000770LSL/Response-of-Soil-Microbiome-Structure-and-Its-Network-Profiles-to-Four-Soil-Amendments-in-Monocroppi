@@ -1,0 +1,2 @@
+# Response-of-Soil-Microbiome-Structure-and-Its-Network-Profiles-to-Four-Soil-Amendments-in-Monocroppi
+To regulate the microbial community in continuous cropping strawberry soils, we developed four soil amendments based on these two BCAs by adding low and high contents of compost. The amplicon sequencing of bacterial and fungal ribosomal markers was applied to study the response of the soil microbiome structure.
